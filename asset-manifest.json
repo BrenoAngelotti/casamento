@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/casamento/static/css/main.392fd7fe.css",
-    "main.js": "/casamento/static/js/main.0681173c.js",
+    "main.css": "/casamento/static/css/main.9fa561d8.css",
+    "main.js": "/casamento/static/js/main.4a021a2a.js",
     "static/js/787.340e3d2a.chunk.js": "/casamento/static/js/787.340e3d2a.chunk.js",
     "index.html": "/casamento/index.html",
-    "main.392fd7fe.css.map": "/casamento/static/css/main.392fd7fe.css.map",
-    "main.0681173c.js.map": "/casamento/static/js/main.0681173c.js.map",
+    "main.9fa561d8.css.map": "/casamento/static/css/main.9fa561d8.css.map",
+    "main.4a021a2a.js.map": "/casamento/static/js/main.4a021a2a.js.map",
     "787.340e3d2a.chunk.js.map": "/casamento/static/js/787.340e3d2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.392fd7fe.css",
-    "static/js/main.0681173c.js"
+    "static/css/main.9fa561d8.css",
+    "static/js/main.4a021a2a.js"
   ]
 }
